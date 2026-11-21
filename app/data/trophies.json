@@ -1,0 +1,936 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "The official 55 trophies, frozen 2026-11-18",
+  "makeup": { "platinum": 1, "gold": 2, "silver": 6, "bronze": 46, "hidden": 28 },
+  "note": "Names, descriptions and grades are the official list as PlayStation publishes it (Exophase and PSNProfiles agree on every name, description and grade). Guides are Sunset Ledger's own words. Every specific step cites its source; where no guide has confirmed a method yet, the trophy is flagged unconfirmed rather than guessed at.",
+  "sources": {
+    "exophase": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+    "psnprofiles": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi",
+    "mobalytics": "https://mobalytics.gg/gamebase/guides/grand-theft-auto-6-all-trophies",
+    "happygamer": "https://happygamer.com/gta-6-missables-176406/",
+    "gtascoop": "https://gtascoop.com/guides/gta-6-trophies-achievements/",
+    "gamemapa": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/",
+    "keengamer": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/",
+    "boostingfactory": "https://www.boostingfactory.com/gta-6/blog/gta-6-trophy-guide",
+    "egamers": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/",
+    "howtovideogame": "https://howtovideogame.com/gta-6-trophies/",
+    "pushsquare": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"
+  },
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "hidden": false,
+      "kind": "platinum",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "The platinum. Earn the other 54 trophies and this one unlocks on its own. There is no shortcut: it is the sum of the whole roadmap — story, strangers, collectibles, activities and 100% completion.",
+      "steps": [
+        { "text": "Follow the roadmap in order: story first, then strangers, then collectibles, then activities, then 100% cleanup.", "source": "Sunset Ledger roadmap — built from the official descriptions" },
+        { "text": "Before anything else, do the Chapter 1 balcony meditation (Positive Mental Attitude) — it is the only trophy that can be missed.", "source": "Mobalytics — GTA 6 trophy walkthrough" },
+        { "text": "Leave cheats off for the whole run: using a cheat disables trophies and saving for the session.", "source": "GTAScoop — GTA 6 trophies" }
+      ],
+      "sources": ["Exophase — official trophy list", "PSNProfiles — GTA VI trophy list"]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "The opening trophy. It pops when you finish Gone Fishing, Jason's first mission. Unmissable — it is the first step of the story.",
+      "steps": [
+        { "text": "Play the opening mission, Gone Fishing, to its end.", "source": "Official trophy description (Exophase)" },
+        { "text": "Story trophies unlock automatically and can't be missed.", "source": "GTAScoop — GTA 6 trophies" }
+      ],
+      "sources": ["Exophase — official trophy list", "GTAScoop — GTA 6 trophies"]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete Chapter 1. Pure story progress — but finish the Chapter 1 missable business before the chapter ends (see Positive Mental Attitude).",
+      "steps": [
+        { "text": "Play through Chapter 1 to its end.", "source": "Official trophy description (Exophase)" },
+        { "text": "Before the chapter ends: meditate on the balcony at Jason's house, do Shirley's two errands, and grab the magazines.", "source": "HappyGamer — GTA 6 missables" }
+      ],
+      "sources": ["Exophase — official trophy list", "HappyGamer — GTA 6 missables"]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete Chapter 2. Pure story progress.",
+      "steps": [
+        { "text": "Play through Chapter 2 to its end.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete Chapter 3. Pure story progress. When the Race Against Yago appears in this chapter, do it — it may count toward Strangers & Freaks.",
+      "steps": [
+        { "text": "Play through Chapter 3 to its end.", "source": "Official trophy description (Exophase)" },
+        { "text": "Do Race Against Yago when it appears; one checklist warns that missing the race could cost you the Strangers & Freaks trophy.", "source": "HappyGamer — GTA 6 missables" }
+      ],
+      "sources": ["Exophase — official trophy list", "HappyGamer — GTA 6 missables"]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete Chapter 4. Pure story progress.",
+      "steps": [
+        { "text": "Play through Chapter 4 to its end.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete the final mission. The story's end — one of only two gold trophies. It pops when the last mission ends.",
+      "steps": [
+        { "text": "Finish the final story mission.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete the mission Breakfast Run. A story mission trophy — it pops when the mission ends.",
+      "steps": [
+        { "text": "Play the mission Breakfast Run to its end.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete The Cartel Heist. A story mission trophy — it pops when the mission ends.",
+      "steps": [
+        { "text": "Play the mission The Cartel Heist to its end.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete Child's Play. A story mission trophy — it pops when the mission ends.",
+      "steps": [
+        { "text": "Play the mission Child's Play to its end.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete Headliners. A story mission trophy — it pops when the mission ends.",
+      "steps": [
+        { "text": "Play the mission Headliners to its end.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    }
+    ,
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete VCIA Takedown. A story mission trophy — it pops when the mission ends.",
+      "steps": [
+        { "text": "Play the mission VCIA Takedown to its end.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete Operation Savage Glory. A story mission trophy — it pops when the mission ends.",
+      "steps": [
+        { "text": "Play the mission Operation Savage Glory to its end.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "hidden": false,
+      "kind": "completion",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Attain 100% Completion. The hardest trophy by most guides' reckoning — it is the whole 100% checklist, which opens after the story. Everything on it can be finished in free roam after the ending.",
+      "steps": [
+        { "text": "Finish the story first; the 100% checklist opens after it.", "source": "HappyGamer — GTA 6 missables" },
+        { "text": "Work the checklist in free roam: collectibles, activities, strangers and the rest — nothing on it is missable after the story.", "source": "HappyGamer — GTA 6 missables" },
+        { "text": "Most trophies come naturally on the way to 100%, because the checklist asks for more than they do.", "source": "GameMapa — GTA 6 trophy list" }
+      ],
+      "sources": ["Exophase — official trophy list", "HappyGamer — GTA 6 missables", "GameMapa — GTA 6 trophy list"]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 250,
+      "guide": "Complete 250 Stunts. A pure count — stunts add up across normal play (jumps, near-misses, air time). It comes naturally on the way to 100%.",
+      "steps": [
+        { "text": "Play normally and stunts accumulate; the 100% checklist asks for more than this trophy does.", "source": "GameMapa — GTA 6 trophy list" },
+        { "text": "If you are short at the end, chain jumps and air time in free roam.", "source": "Sunset Ledger — own advice from the official description, not yet checked in the game" }
+      ],
+      "sources": ["Exophase — official trophy list", "GameMapa — GTA 6 trophy list"]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Try each type of activity once. Just sample each one — no need to master any of them. Fishing, races, the shooting range, arcade games, bowling, meditation, hunting and drone races are all on the list.",
+      "steps": [
+        { "text": "Try each type of activity once.", "source": "Official trophy description (Exophase)" },
+        { "text": "Sample them as they unlock during the story and side content — one try each is enough.", "source": "Sunset Ledger — own advice from the official description, not yet checked in the game" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 42,
+      "guide": "Earn a gold medal in all Shooting Range challenges. 42 challenges, and every one needs gold. This is a skill trophy — the range is the place to practise.",
+      "steps": [
+        { "text": "Gold all 42 Shooting Range challenges.", "source": "Official trophy description (Exophase)" },
+        { "text": "Practise at the range; gold medals are the only requirement — no other activity feeds this trophy.", "source": "Sunset Ledger — own advice from the official description, not yet checked in the game" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 14,
+      "guide": "Win a Top Fun Drone Race at every location. 14 locations — win one race at each.",
+      "steps": [
+        { "text": "Win a Top Fun drone race at all 14 locations.", "source": "Official trophy description (Exophase)" },
+        { "text": "Races are per-location: one win each, not 14 wins at one place.", "source": "Sunset Ledger — own reading of the official description" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 20,
+      "guide": "Win 20 different races. Different races — 20 distinct events, not 20 wins of the same one.",
+      "steps": [
+        { "text": "Win 20 different race events.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Beat Cal in a fishing challenge. Find Cal and out-fish him in a challenge.",
+      "steps": [
+        { "text": "Beat Cal in a fishing challenge.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete an arcade game. One full arcade game, any machine.",
+      "steps": [
+        { "text": "Finish one arcade game.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete the final mission for Andy. A stranger/contact finale — work Andy's strand to its last mission.",
+      "steps": [
+        { "text": "Play Andy's missions through to the final one.", "source": "Official trophy description (Exophase)" },
+        { "text": "Begin stranger chains as soon as they unlock; some have windows tied to story progress.", "source": "EGamers — GTA 6 trophy list" }
+      ],
+      "sources": ["Exophase — official trophy list", "EGamers — GTA 6 trophy list"]
+    }
+    ,
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete the final mission for Kenton. Work Kenton's strand to its last mission. Note: Kenton's shipwreck diving pauses after Chapter 1 but returns later — it is not missable.",
+      "steps": [
+        { "text": "Play Kenton's missions through to the final one.", "source": "Official trophy description (Exophase)" },
+        { "text": "Kenton's shipwreck diving pauses after Chapter 1 and returns later — not missable.", "source": "HappyGamer — GTA 6 missables" }
+      ],
+      "sources": ["Exophase — official trophy list", "HappyGamer — GTA 6 missables"]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete the final mission for Billy. Work Billy's strand to its last mission.",
+      "steps": [
+        { "text": "Play Billy's missions through to the final one.", "source": "Official trophy description (Exophase)" },
+        { "text": "Begin stranger chains as soon as they unlock; some have windows tied to story progress.", "source": "EGamers — GTA 6 trophy list" }
+      ],
+      "sources": ["Exophase — official trophy list", "EGamers — GTA 6 trophy list"]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 8,
+      "guide": "Complete 8 mission strands for strangers across the state of Leonida. Eight full stranger strands. Start each chain as soon as it unlocks — some have windows tied to story progress.",
+      "steps": [
+        { "text": "Complete 8 stranger mission strands.", "source": "Official trophy description (Exophase)" },
+        { "text": "Begin each chain as soon as it unlocks; TechWiser reports windows tied to story progress.", "source": "EGamers — GTA 6 trophy list" },
+        { "text": "Do Race Against Yago in Chapter 3 when it appears — it may count toward this trophy.", "source": "HappyGamer — GTA 6 missables" }
+      ],
+      "sources": ["Exophase — official trophy list", "EGamers — GTA 6 trophy list", "HappyGamer — GTA 6 missables"]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete the final mission for Randy. Work Randy's strand to its last mission.",
+      "steps": [
+        { "text": "Play Randy's missions through to the final one.", "source": "Official trophy description (Exophase)" },
+        { "text": "Begin stranger chains as soon as they unlock; some have windows tied to story progress.", "source": "EGamers — GTA 6 trophy list" }
+      ],
+      "sources": ["Exophase — official trophy list", "EGamers — GTA 6 trophy list"]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Complete the final mission for Tyrone. Work Tyrone's strand to its last mission.",
+      "steps": [
+        { "text": "Play Tyrone's missions through to the final one.", "source": "Official trophy description (Exophase)" },
+        { "text": "Begin stranger chains as soon as they unlock; some have windows tied to story progress.", "source": "EGamers — GTA 6 trophy list" }
+      ],
+      "sources": ["Exophase — official trophy list", "EGamers — GTA 6 trophy list"]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": true,
+      "unconfirmed": false,
+      "count": 18,
+      "guide": "Meditate at every spot across Leonida. 18 spots. THE missable one: one meditation is at Jason's house in Chapter 1 (Lucia's balcony meditation) and it goes away when the chapter ends. Do it early — guides disagree whether all 18 or only 15 are needed, so do all 18 to be safe.",
+      "steps": [
+        { "text": "In Chapter 1, after Lucia mentions meditation in the kitchen at Jason's house, follow her to the balcony and accept the prompt.", "source": "GameMapa — GTA 6 trophy list" },
+        { "text": "Meditate at every spot across Leonida — 18 in total.", "source": "Official trophy description (Exophase)" },
+        { "text": "Guides disagree whether all 18 or 15 are needed; PowerPyx has not confirmed whether the Chapter 1 spot is required. Do it anyway — it is the only spot that can disappear.", "source": "GameMapa — GTA 6 trophy list" },
+        { "text": "Only one trophy is reported as possibly missable, and it is this one.", "source": "Mobalytics — GTA 6 trophy walkthrough" }
+      ],
+      "sources": ["Exophase — official trophy list", "GameMapa — GTA 6 trophy list", "Mobalytics — GTA 6 trophy walkthrough", "HappyGamer — GTA 6 missables"]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Hunt a unique animal for Bret. Find Bret's unique animal and hunt it.",
+      "steps": [
+        { "text": "Hunt the unique animal for Bret.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 3,
+      "guide": "Complete 3 Collectible Card sets. Find and complete three full card sets.",
+      "steps": [
+        { "text": "Complete 3 collectible card sets.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 100,
+      "guide": "WAiNK It at 100 locations. 100 spots — a pure count, best done while exploring.",
+      "steps": [
+        { "text": "WAiNK It at 100 locations.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 50,
+      "guide": "Complete 50 Challenges. 50 challenges across the game's challenge list.",
+      "steps": [
+        { "text": "Complete 50 challenges.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Lose a 4 star Wanted Level with your partner and escape the heat. Get to 4 stars with your partner, then lose the cops together.",
+      "steps": [
+        { "text": "Reach a 4-star wanted level with your partner, then escape.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    }
+    ,
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 3,
+      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Three shops in a row, partner with you, and keep the wanted level the whole time.",
+      "steps": [
+        { "text": "Rob 3 shops back-to-back with your partner without losing your wanted level.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 100,
+      "guide": "Discover 100 vehicles. 100 distinct vehicles — discovering them counts as you drive and find them.",
+      "steps": [
+        { "text": "Discover 100 vehicles across Leonida.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 5,
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Five in one Combat Focus — set it up where enemies cluster.",
+      "steps": [
+        { "text": "Down 5 enemies in a single Combat Focus.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Make an unscheduled departure at VCIA. Leave the airport in a way that isn't on the schedule — the description is deliberately vague, and this is Sunset Ledger's reading of it: an unplanned exit from VCIA, not a booked flight.",
+      "steps": [
+        { "text": "Make an unscheduled departure at VCIA.", "source": "Official trophy description (Exophase)" },
+        { "text": "Reading: an unplanned exit from the airport, not a scheduled flight.", "source": "Sunset Ledger — own reading of the official description" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "'Kinda hot in these Rhinos.' The description is a joke, not an instruction. The working reading: take on Rhino tanks in combat.",
+      "steps": [
+        { "text": "Take on Rhino tanks in combat.", "source": "Sunset Ledger — own reading of the official description" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Rob a jewelry store without being detected. Stealth only — no alarms, no witnesses.",
+      "steps": [
+        { "text": "Rob a jewelry store without being detected.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 5,
+      "guide": "Rob 5 Bank Vaults and escape. Five vaults, and get away clean each time.",
+      "steps": [
+        { "text": "Rob 5 bank vaults and escape.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Rob an Armored Truck and escape. One truck, one clean getaway.",
+      "steps": [
+        { "text": "Rob an armored truck and escape.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 52,
+      "guide": "Explore all of Leonida. 52 areas — explore every one. It comes with normal travel and the 100% checklist.",
+      "steps": [
+        { "text": "Explore all 52 areas of Leonida.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 9,
+      "guide": "Rob an Illegal Operation belonging to each gang. 9 gangs — one illegal operation from each.",
+      "steps": [
+        { "text": "Rob one illegal operation of each of the 9 gangs.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": true,
+      "count": null,
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. The exact trigger is still unknown — PowerPyx lists this trophy's condition as unknown. The description points at Ocean Beach; the working reading is a cocktail with an Ocean Beach view, but no guide has confirmed the exact spot or action yet.",
+      "steps": [
+        { "text": "Have a cocktail with a view on Ocean Beach.", "source": "Official trophy description (Exophase)" },
+        { "text": "Exact trigger still unknown — PowerPyx lists the condition as unknown.", "source": "GameMapa — GTA 6 trophy list" }
+      ],
+      "sources": ["Exophase — official trophy list", "GameMapa — GTA 6 trophy list"]
+    }
+    ,
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": true,
+      "count": null,
+      "guide": "Smash your way out of a vehicle showroom in classic style. The exact trigger is still unknown — PowerPyx lists this trophy's condition as unknown. The description points at a vehicle showroom; no guide has confirmed the exact one or the exact smash yet.",
+      "steps": [
+        { "text": "Smash out of a vehicle showroom.", "source": "Official trophy description (Exophase)" },
+        { "text": "Exact trigger still unknown — PowerPyx lists the condition as unknown.", "source": "GameMapa — GTA 6 trophy list" }
+      ],
+      "sources": ["Exophase — official trophy list", "GameMapa — GTA 6 trophy list"]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "Follow-through at the Kolt & Associates' bowling alley. One guide reports the method: at Kingpin Bowling in Port Gellhorn, take the luxury watch, the unique shotgun and the safe contents, then escape the police. That report comes from a single guide and is not yet confirmed by a second source.",
+      "steps": [
+        { "text": "Go to the Kolt & Associates bowling alley.", "source": "Official trophy description (Exophase)" },
+        { "text": "Reported method (single source, not yet confirmed): at Kingpin Bowling in Port Gellhorn, take the luxury watch, unique shotgun and safe contents, then escape the police.", "source": "BoostingFactory — GTA 6 trophy guide" }
+      ],
+      "sources": ["Exophase — official trophy list", "BoostingFactory — GTA 6 trophy guide"]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": null,
+      "guide": "'A partnership with mass appeal.' Two guides agree on the method: reach maximum Strength with both Jason and Lucia.",
+      "steps": [
+        { "text": "Reach maximum Strength with both Jason and Lucia.", "source": "KeenGamer — GTA 6 trophy guide" },
+        { "text": "A second guide gives the same method.", "source": "BoostingFactory — GTA 6 trophy guide" }
+      ],
+      "sources": ["Exophase — official trophy list", "KeenGamer — GTA 6 trophy guide", "BoostingFactory — GTA 6 trophy guide"]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 500,
+      "guide": "'Choices made (for better or worse).' PSN tracks a count to 500: perform 500 actions affecting your Criminal Profile. It accumulates across the game — every choice that moves your profile counts.",
+      "steps": [
+        { "text": "Perform 500 actions affecting your Criminal Profile.", "source": "KeenGamer — GTA 6 trophy guide" },
+        { "text": "A second guide gives the same count, and PSN tracks it to 500.", "source": "BoostingFactory — GTA 6 trophy guide" }
+      ],
+      "sources": ["Exophase — official trophy list", "KeenGamer — GTA 6 trophy guide", "BoostingFactory — GTA 6 trophy guide", "HowToVideoGame — GTA 6 trophies"]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": true,
+      "count": null,
+      "guide": "'Second time's the charm.' The exact trigger is still unknown — PowerPyx lists this trophy's condition as unknown. The description hints at succeeding on a second attempt, but no guide has confirmed what, exactly, has to be tried twice.",
+      "steps": [
+        { "text": "The description hints at a second attempt.", "source": "Official trophy description (Exophase)" },
+        { "text": "Unlock condition not yet verified — PowerPyx lists it as unknown.", "source": "GameMapa — GTA 6 trophy list" }
+      ],
+      "sources": ["Exophase — official trophy list", "GameMapa — GTA 6 trophy list"]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": true,
+      "count": null,
+      "guide": "'What the hell just happened?' The exact trigger is still unknown — PowerPyx lists this trophy's condition as unknown. One guide reports a UFO abduction at night in Kelly County (near Starlet Motel, after helping a stranded woman), but that report is unverified by any second source, so treat it as a lead, not a fact.",
+      "steps": [
+        { "text": "Exact trigger still unknown — PowerPyx lists the condition as unknown.", "source": "GameMapa — GTA 6 trophy list" },
+        { "text": "Unverified lead (single source): a UFO abduction during a nighttime encounter in Kelly County, near Starlet Motel.", "source": "BoostingFactory — GTA 6 trophy guide" }
+      ],
+      "sources": ["Exophase — official trophy list", "GameMapa — GTA 6 trophy list", "BoostingFactory — GTA 6 trophy guide"]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "unconfirmed": true,
+      "count": null,
+      "guide": "'Bowl 'em over with a melee drive-by.' The exact trigger is still unknown — PowerPyx lists this trophy's condition as unknown. The description points at knocking targets down with a melee drive-by; no guide has confirmed the exact target or count yet.",
+      "steps": [
+        { "text": "Knock targets down with a melee drive-by.", "source": "Official trophy description (Exophase)" },
+        { "text": "Exact trigger still unknown — PowerPyx lists the condition as unknown.", "source": "GameMapa — GTA 6 trophy list" }
+      ],
+      "sources": ["Exophase — official trophy list", "GameMapa — GTA 6 trophy list"]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 250000,
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Launder a quarter of a million in marked bills — it accumulates as you run bills through contacts.",
+      "steps": [
+        { "text": "Launder $250,000 of marked bills through your contacts.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 100000,
+      "guide": "Spend $100,000 across all shops. Total spending across every shop — it adds up over a normal playthrough.",
+      "steps": [
+        { "text": "Spend $100,000 in shops.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 8,
+      "guide": "Purchase all garage properties. 8 garage properties — buy them all.",
+      "steps": [
+        { "text": "Buy all 8 garage properties.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "unconfirmed": false,
+      "count": 10,
+      "guide": "Register 10 vehicles to the Scooter Bros app. Register ten vehicles in the app.",
+      "steps": [
+        { "text": "Register 10 vehicles in the Scooter Bros app.", "source": "Official trophy description (Exophase)" }
+      ],
+      "sources": ["Exophase — official trophy list"]
+    }
+  ]
+}

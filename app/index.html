@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sunset Ledger — GTA VI Trophy Guide</title>
+<meta name="description" content="A complete GTA VI trophy guide: all 55 trophies, cited steps, a roadmap to the Platinum, and honest flags for the one missable and the five unconfirmed.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-rule">LEONIDA &middot; VICE CITY &middot; 55 TROPHIES</div>
+  <h1>Sunset Ledger</h1>
+  <p class="tagline">The complete GTA VI trophy guide — every trophy, every step, every source. Nothing guessed.</p>
+  <p class="progress-line"><span id="progress">0 of 55 earned</span> &middot; <span id="progress-pct">0%</span></p>
+  <div class="progress-bar" role="progressbar" aria-label="Trophies earned"><div id="progress-fill"></div></div>
+  <p class="missable-alert"><strong>One missable:</strong> Positive Mental Attitude — meditate at Jason&rsquo;s house in Chapter 1, before the chapter ends. <button id="alert-goto" type="button">See it &rarr;</button></p>
+</header>
+
+<nav class="views" aria-label="Views">
+  <button type="button" data-view="checklist" class="active">Checklist</button>
+  <button type="button" data-view="roadmap">Roadmap</button>
+  <button type="button" data-view="missables">Missables &amp; Unknowns</button>
+  <button type="button" data-view="settings">Settings</button>
+</nav>
+
+<div class="controls" id="controls">
+  <label>Grade
+    <select id="grade">
+      <option value="all">All grades</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+  </label>
+  <label>Kind
+    <select id="kind">
+      <option value="all">All kinds</option>
+      <option value="story">Story</option>
+      <option value="activity">Activity</option>
+      <option value="collectible">Collectible</option>
+      <option value="completion">Completion</option>
+      <option value="platinum">Platinum</option>
+    </select>
+  </label>
+  <label class="search-label">Search <input id="search" type="search" placeholder="Trophy name or keyword&hellip;"></label>
+  <label class="check-label"><input id="hide-earned" type="checkbox"> Hide earned</label>
+  <button id="export" type="button">Export progress</button>
+  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
+</div>
+
+<main id="main"></main>
+
+<footer class="colophon">
+  <p>Sources: Exophase, PSNProfiles, Mobalytics, HappyGamer, GTAScoop, GameMapa, KeenGamer, BoostingFactory, EGamers, HowToVideoGame, Push Square. Every specific claim in a guide cites its source; anything unconfirmed is flagged as such.</p>
+  <p>Sunset Ledger — an unofficial fan guide. Grand Theft Auto and GTA are trademarks of Take-Two Interactive. Not affiliated with Rockstar Games.</p>
+</footer>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
